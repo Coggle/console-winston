@@ -1,6 +1,6 @@
 {
   "name": "console-winston",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Override console.* and log to winston",
   "main": "index.js",
   "scripts": {
