@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Coggle/console-winston/issues"
   },
-  "homepage": "https://github.com/Coggle/console-winston"
+  "homepage": "https://github.com/Coggle/console-winston",
+  "dependencies": {
+    "underscore": "^1.7.0",
+    "winston": "^0.8.3"
+  }
 }
