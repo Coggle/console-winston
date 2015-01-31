@@ -1,0 +1,24 @@
+{
+  "name": "console-winston",
+  "version": "0.0.1",
+  "description": "Override console.* and log to winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Coggle/console-winston.git"
+  },
+  "keywords": [
+    "logging",
+    "winston",
+    "console"
+  ],
+  "author": "Andy <andy@coggle.it>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coggle/console-winston/issues"
+  },
+  "homepage": "https://github.com/Coggle/console-winston"
+}
